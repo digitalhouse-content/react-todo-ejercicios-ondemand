@@ -22,3 +22,8 @@ npm run dev
 ## Archivos principales
 
 - `App.jsx`: contiene la lógica de tareas con `useState`.
+
+## Extras
+
+- Mejora el diseño de la aplicación.
+- Agrega animaciones al agregar o eliminar tareas.
